@@ -1,5 +1,5 @@
 ## Art Block Buddy
-A simple, small terminal program to aid in artists struggling with art block. This was made as I had a need for such aid, since I am an artist myself.
+A small terminal program to aid in artists struggling with art block. This was made as I had a need for such aid, since I am an artist myself.
 
 ## Getting started
 
